@@ -1,6 +1,5 @@
 - 👋 Je m'appelle @luciaLebrun
 - 🌱 Je suis actuellement en train d'apprendre les bases de Unity
-- 💞️ I’m looking to collaborate on ...
 - 📫 Je suis actuellemet étudiante en seconde année de développement informatique 
 
 <!---
