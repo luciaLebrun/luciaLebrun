@@ -1,2 +1,2 @@
 - 👋 Je m'appelle @luciaLebrun
-- 🌱 Fraichemeent diplomée d'un DUT informatique
+- 🌱 Fraichement diplomée d'un DUT informatique
