@@ -1,2 +1,2 @@
 - 👋 Je m'appelle @luciaLebrun
-- 🌱 Fraichement diplomée d'un DUT informatique et actuellement en 3e année d'une licence informatique
+- 🌱 Fraichement diplomée d'une licence informatique et actuellement en M1 dev en alternance
