@@ -1,5 +1,5 @@
 # Lucia LEBRUN
-### Studying for a master degree in computer science and in a sandwich course for Société Générale
+### Studying for a master degree
 
 
 
